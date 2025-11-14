@@ -36,3 +36,14 @@ pdf-highlight-cloner/
 └─ sample_pdfs/
    ├─ template_example.pdf            # Highlighted template document
    └─ demo_input.pdf                  # Un-highlighted document
+
+### Usage
+
+Run the script from the command line:
+
+```bash
+python clone_highlights.py \
+  --template sample_pdfs/template_example.pdf \
+  --input sample_pdfs/demo_input.pdf \
+  --output sample_pdfs/demo_output.pdf
+
