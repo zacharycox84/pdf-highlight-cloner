@@ -47,3 +47,9 @@ python clone_highlights.py \
   --input sample_pdfs/demo_input.pdf \
   --output sample_pdfs/demo_output.pdf
 
+## Example Output
+
+Below: Template PDF (left) → cloned highlights applied to new PDF (right)
+
+![Example Output](images/Example Before & After.png)
+
