@@ -34,5 +34,5 @@ pdf-highlight-cloner/
 ├─ requirements.txt        # Python dependencies
 ├─ clone_highlights.py     # Main script
 └─ sample_pdfs/
-   ├─ template_example.pdf # Highlighted template document
-   └─ demo_input.pdf       # Un-highlighted document
+   ├─ Template.pdf            # Highlighted template document
+   └─ demo_template.pdf       # Un-highlighted document
